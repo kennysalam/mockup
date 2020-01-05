@@ -1,0 +1,74 @@
+#logo{
+    width: 80%;
+}
+
+#main-img{
+    width: 100%;
+}
+
+body { 
+    padding-top: 100px; 
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h5 {
+    line-height: 1.8;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.nav-item{
+    color: rgb(100, 100, 100)!Important;
+}
+
+.nav-item:hover{
+    color: rgb(20, 20, 20)!Important;
+}
+
+.btn-primary{
+    padding: 15px 30px!Important;
+    background-color: rgb(255, 73, 103)!Important;
+    border-color: rgb(255, 73, 103)!Important;
+    border-radius: 10px!Important;
+    font-weight: bold;
+    border-width: 0.7mm;
+}
+
+.btn-primary:hover{
+    background-color: rgb(255, 139, 158)!Important;
+    border-color: rgb(255, 139, 158)!Important;
+}
+
+.btn-outline-primary{
+    padding: 15px 30px!Important;
+    border-color: rgb(255, 73, 103)!Important;
+    border-width: 0.7mm;
+    border-radius: 10px!Important;
+    font-weight: bold;
+    color: rgb(255, 73, 103)!Important;
+}
+
+.btn-outline-primary:hover{
+    background-color: rgb(255, 139, 158)!Important;
+    border-color: rgb(255, 139, 158)!Important;
+    color: white!Important;
+}
+
+.short-div{
+    padding: 20px 0 20px 0;
+}
+
+.sns{
+    box-shadow: 0 0 20px rgba(133, 133, 133, 0.671);
+    max-width: 45px;
+    transition: transform .2s;
+}
+
+.sns:hover{
+    transform: scale(1.2);
+}
